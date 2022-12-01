@@ -1,0 +1,25 @@
+﻿  Main.cpp
+C:\Users\stm_0\source\repos\3-Lab\Main\Lexema.h(55,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Lexema.h(70,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Lexema.h(80,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Lexema.h(121,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Lexema.h(124,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Lexema.h(179,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(112,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(106): message : во время компиляции функции-члена класс шаблон "std::ostream &operator <<(std::ostream &,Queue<Lexema> &)"
+C:\Users\stm_0\source\repos\3-Lab\Main\Main.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::ostream &operator <<(std::ostream &,Queue<Lexema> &)"
+C:\Users\stm_0\source\repos\3-Lab\Main\Lexema.h(36): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Queue<Lexema>"
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(112,51): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(99,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(92): message : во время компиляции функции-члена класс шаблон "Queue<Lexema> &Queue<Lexema>::operator =(const Queue<Lexema> &)"
+C:\Users\stm_0\source\repos\3-Lab\Main\Main.cpp(14): message : выполняется компиляция ссылки на экземпляр шаблон функции "Queue<Lexema> &Queue<Lexema>::operator =(const Queue<Lexema> &)"
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(99,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(56,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(54): message : во время компиляции функции-члена класс шаблон "int Queue<Lexema>::Get_Size(void) const"
+C:\Users\stm_0\source\repos\3-Lab\Main\Lexema.h(102): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Queue<Lexema>::Get_Size(void) const"
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(56,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(43,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(37): message : во время компиляции функции-члена класс шаблон "Queue<Lexema>::Queue(const Queue<Lexema> &)"
+C:\Users\stm_0\source\repos\3-Lab\Main\Lexema.h(90): message : выполняется компиляция ссылки на экземпляр шаблон функции "Queue<Lexema>::Queue(const Queue<Lexema> &)"
+C:\Users\stm_0\source\repos\3-Lab\Main\Queue.h(43,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Main.vcxproj -> C:\Users\stm_0\source\repos\3-Lab\cmake\main\Debug\Main.exe
